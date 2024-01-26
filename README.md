@@ -1,4 +1,12 @@
-### Hi there 👋
+### Pedro Uzcátegui
+
+Software Engineer with 3+ years of experience
+
+- Currently working on:
+  - asesoriadevisaamericana.com
+  - Rust NES emulator
+  - Facebook + HL Analytics 
+
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
