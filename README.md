@@ -2,7 +2,7 @@
 
 Software Engineer with 3+ years of experience
 
-- Currently working on my business: asesoriadevisaamericana.com
+- Currently working on my business: automationcourses.com
 
 Languages:
 
