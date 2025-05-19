@@ -1,6 +1,6 @@
 ### Pedro Uzcátegui
 
-Software Engineer with 5+ years of experience
+Programmer since 2019, currently focusing on AI, Automations and DevOps.
 
 - Winning Team @ Codicon 2024
 
