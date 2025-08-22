@@ -48,38 +48,3 @@ I'm passionate about tackling complex challenges and optimizing workflows, with 
     <td>Git, Vite, Webpack, Vim, Socket.io, WordPress, JWT</td>
   </tr>
 </table>
-
----
-
-### ✨ Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">Project Name 1</h4>
-      <p>A brief 1-2 sentence description of the project, what problem it solves, and its main features.</p>
-      <p><strong>Tech:</strong> React, Node.js, PostgreSQL, Docker</p>
-      <p align="center">
-        <a href="[LINK_TO_REPO]">View Code</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="[LINK_TO_LIVE_DEMO]">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">Project Name 2</h4>
-      <p>A brief 1-2 sentence description of the project, what problem it solves, and its main features.</p>
-      <p><strong>Tech:</strong> Laravel, TypeScript, TailwindCSS, Vercel</p>
-      <p align="center">
-        <a href="[LINK_TO_REPO]">View Code</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-        <a href="[LINK_TO_LIVE_DEMO]">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrouzcategui&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Pedro's GitHub Stats" />
-</p>
