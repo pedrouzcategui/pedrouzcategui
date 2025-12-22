@@ -37,7 +37,7 @@ I'm passionate about tackling complex challenges and optimizing workflows, with 
   </tr>
   <tr>
     <td valign="top"><strong>DevOps & Cloud</strong></td>
-    <td>Docker, CI/CD, Cloudflare, Vercel, AWS (Basics)</td>
+    <td>Docker, Kubernetes, Jenkins, Github Actions, Cloudflare, Vercel, AWS, GCP, Azure, Terraform</td>
   </tr>
    <tr>
     <td valign="top"><strong>Databases</strong></td>
