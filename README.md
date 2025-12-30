@@ -16,7 +16,9 @@
 
 I'm passionate about tackling complex challenges and optimizing workflows, with a current focus on **Artificial Intelligence**, **Process Automation**, and **DevOps**. I thrive in collaborative environments and enjoy leveraging technology to solve real-world problems.
 
-🏆 **Recent Achievement:** Winning Team @ **Codicon 2024** Hackathon
+🏆 **Recent Achievements:** 
+- 2025: Graduated magna cum laude with an Associate of Science in Computer Science
+- 2024: Winning Team @ **Codicon 2024** Hackathon
 
 ---
 
